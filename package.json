@@ -11,6 +11,6 @@
         "webpack-cli": "^6.0.0"
     },
     "dependencies": {
-        "mathjs": "^14.0.0"
+        "mathjs": "^15.2.0"
     }
 }
