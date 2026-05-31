@@ -1,0 +1,12 @@
+{
+    "display_name": "ST-Calc 数学计算器",
+    "loading_order": 900,
+    "requires": [],
+    "optional": [],
+    "js": "dist/calc.js",
+    "css": "",
+    "author": "ST-Calc",
+    "version": "2.0.0",
+    "homePage": "",
+    "auto_update": false
+}

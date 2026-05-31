@@ -1,0 +1,16 @@
+{
+    "name": "st-calc",
+    "version": "2.0.0",
+    "description": "SillyTavern 数学计算器 Function Call 工具（高精度、高等数学）",
+    "private": true,
+    "scripts": {
+        "build": "webpack --mode production"
+    },
+    "devDependencies": {
+        "webpack": "^5.0.0",
+        "webpack-cli": "^6.0.0"
+    },
+    "dependencies": {
+        "mathjs": "^14.0.0"
+    }
+}
