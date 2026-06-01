@@ -5,8 +5,8 @@
     "optional": [],
     "js": "dist/calc.js",
     "css": "",
-    "author": "ST-Calc",
+    "author": "pigeon",
     "version": "2.0.0",
-    "homePage": "",
+    "homePage": "https://github.com/Pigeonszz/ST-Calc",
     "auto_update": false
 }

@@ -20,7 +20,7 @@ export function evaluate(expressions, precision = 15) {
         expr = expr.replace(/\[(\d+)\]\.result/g, (_, idx) => {
             const n = parseInt(idx, 10);
             const ref = results[n - 1];
-            if (!ref) throw new Error(`引用了不存在的计算结果 [${n}]`);
+            if (!ref) throw new Error(`Referenced non-existent result [${n}]`);
             return `(${ref.result.toString()})`;
         });
 
