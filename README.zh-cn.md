@@ -1,3 +1,5 @@
+[English](README.md) 简体中文
+
 # ST-Calc
 
 一个计算器

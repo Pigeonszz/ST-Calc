@@ -1,3 +1,5 @@
+English [简体中文](README.zh-cn.md)
+
 # ST-Calc
 
 A math calculator extension for SillyTavern
