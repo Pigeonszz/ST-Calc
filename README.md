@@ -4,6 +4,8 @@ English [简体中文](README.zh-cn.md)
 
 A math calculator extension for SillyTavern
 
+register a Function Tool for LLMs to count right
+
 ## TL;DR
 
 1. Install [ST-Calc](https://github.com/Pigeonszz/ST-Calc)
